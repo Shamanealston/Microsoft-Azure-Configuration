@@ -34,8 +34,7 @@ This tutorial outlines the prerequisites and creation of a virtual machine in Az
 https://github.com/user-attachments/assets/476fa3e7-480e-4959-9641-ef79f379cb25
 
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>In this first screen recording, I created a resource group named "Project RG". A resource group in Microsoft Azure is "container" that can hold all your desired resources within azure. Essentially it can be prepared to a Google Drive. 
 </p>
 <br />
 
@@ -45,8 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 https://github.com/user-attachments/assets/5e099268-5765-419d-aa0b-4d1414f47da5
 
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>Next I created a virtual machine. A virtual machine is a digital computer that can be used through remote desktop that has the ability to carry out all normal computer functions. While creating the virtual machine, there are an array of servers you can use and sizes that offer the best compatibilty for your needs. 
 </p>
 <br />
 
@@ -57,8 +55,7 @@ https://github.com/user-attachments/assets/423c15ef-7f1d-4c3e-ae7c-46cb4e683cea
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Once the deployment is complete, you can access all information about the virtual machine you created. In order to link the digital computer, you'll need the public IP address and the username and password you created in the intial creation. Once you enter the IP address and the login credentials, you'll have access to your vitrual machine. </p>
 <br />
 
 
@@ -68,3 +65,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 https://github.com/user-attachments/assets/7638dd01-1573-43a5-b315-0ecaaa0196cb
 
+
+After you complete all your tasks on the virtual machine, be sure to delete the resource group so your microsoft azure credit won't run up. If you delete the whole resource group, everything inside of it will delete as well. 

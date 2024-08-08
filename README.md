@@ -1,4 +1,4 @@
-# Microsoft-Azure-Configuration
+# Creating a Virtual Machine
 <p align="center">
 
 ![Azure logo](https://github.com/user-attachments/assets/92cb282d-48d6-4893-84b4-9ac24a3a043b)

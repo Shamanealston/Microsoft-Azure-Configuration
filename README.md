@@ -1,21 +1,21 @@
 # Microsoft-Azure-Configuration
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+
+![Azure logo](https://github.com/user-attachments/assets/92cb282d-48d6-4893-84b4-9ac24a3a043b)
+
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+<h1>Microsoft Azure - Prerequisites and Installation</h1>
+This tutorial outlines the prerequisites and creation of a virtual machine in Azure.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure 
 - Remote Desktop
-- Internet Information Services (IIS)
+
 
 <h2>Operating Systems Used </h2>
 
